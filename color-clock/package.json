@@ -1,7 +1,6 @@
 {
   "name": "color-clock",
   "version": "1.0.0",
-  "description": "",
   "main": "color-clock.js",
   "dependencies": {
     "accepts": "^1.3.8",
@@ -90,10 +89,8 @@
     "test": "echo 'Hello World!'",
     "start": "serve"
   },
-  "author": "Flatiron School",
-  "license": "CC-BY-NC-SA-4.0",
-  "bugs": {
-    "url": "https://github.com/learn-co-curriculum/react-hooks-npm-lab/issues"
-  },
-  "homepage": "https://github.com/learn-co-curriculum/react-hooks-npm-lab#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
